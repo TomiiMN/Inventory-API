@@ -1,4 +1,4 @@
-# demo.spring.boot
+# Inventory-API
 
 API REST para gestión de productos e inventario, con autenticación y autorización basada en roles
 
